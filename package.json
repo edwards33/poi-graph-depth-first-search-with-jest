@@ -1,0 +1,20 @@
+{
+  "name": "poi-graph-depth-first-search-with-jest",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Edward",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "graphdracula": "^1.2.1",
+    "raphael": "^2.2.8"
+  }
+}
